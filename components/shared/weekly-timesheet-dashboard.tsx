@@ -191,7 +191,7 @@ export const WeeklyTimesheetDashboard = () => {
 
             <Button type="button" onClick={scrollToShiftInput}>
               <Plus className="size-4" />
-              Add shift
+              Enter hours
             </Button>
           </div>
         </CardContent>
